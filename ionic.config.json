@@ -1,0 +1,7 @@
+{
+  "name": "Bab-e",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
